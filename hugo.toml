@@ -1,0 +1,13 @@
+baseURL = "https://chetankm-cs.github.io/"
+languageCode = "en-us"
+title = "Logging the Quirks"
+
+[params]
+  description = "Logging the quirks. A place for all the unusual things discovered on random walks."
+  author = "Chetan K M"
+  email = "pop.chetan@gmail.com"
+  twitterUsername = "chetan_km"
+  githubUsername = "chetankm-cs"
+
+[outputs]
+  home = ["HTML", "RSS"]

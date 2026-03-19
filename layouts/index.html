@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            <a href="/about/">About</a>
+        </nav>
+    </header>
+    <main>
+        {{ .Content }}
+        <section class="posts">
+            <h2>Recent Posts</h2>
+            {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
+            <article>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+            </article>
+            {{ end }}
+        </section>
+    </main>
+    <footer>
+        <p>&copy; {{ now.Year }} {{ .Site.Params.author }}</p>
+    </footer>
+</body>
+</html>
