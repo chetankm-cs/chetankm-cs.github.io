@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logging the Quirks</title>
+    <title>Home on Chetan K M</title>
     <link>https://chetankm-cs.github.io/</link>
-    <description>Recent content on Logging the Quirks</description>
+    <description>Recent content in Home on Chetan K M</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://chetankm-cs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from Jekyll to Hugo with AI Assistance</title>
+      <link>https://chetankm-cs.github.io/posts/2026/03/18/migrating-from-jekyll-to-hugo-with-ai-assistance/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0530</pubDate>
+      <guid>https://chetankm-cs.github.io/posts/2026/03/18/migrating-from-jekyll-to-hugo-with-ai-assistance/</guid>
+      <description>&lt;p&gt;A while back, I started this blog using Jekyll. It worked well, but over time, managing Ruby dependencies and the occasional build quirks became a bit of a hassle. When I wanted to move to Hugo, the prospect of manually converting everything felt daunting.&lt;/p&gt;&#xA;&lt;p&gt;Enter AI. I used &lt;a href=&#34;https://opencode.ai/download&#34;&gt;OpenCode Desktop&lt;/a&gt; to help with the migration. Here&amp;rsquo;s how it went:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First, I asked the AI to analyze the existing Jekyll structure and explain how Hugo&amp;rsquo;s organization differs&lt;/li&gt;&#xA;&lt;li&gt;It helped convert the front matter from YAML to TOML format&lt;/li&gt;&#xA;&lt;li&gt;It generated the Hugo configuration file based on the site&amp;rsquo;s needs&lt;/li&gt;&#xA;&lt;li&gt;It created the necessary layout templates by understanding the existing HTML structure&lt;/li&gt;&#xA;&lt;li&gt;It set up a GitHub Actions workflow to automatically build and deploy the site on every push&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;What Worked Well&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://chetankm-cs.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://chetankm-cs.github.io/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;I&amp;rsquo;m a software engineer with a passion for building robust, scalable systems. This blog is where I document discoveries, share learnings, and explore interesting problems I&amp;rsquo;ve encountered along the way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve spent years working across the stack, from backend services to frontend interfaces. My interests include distributed systems, programming languages, and developer tooling.&lt;/p&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;Writing&lt;/h2&gt;&#xA;&lt;p&gt;I write about:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software architecture and system design&lt;/li&gt;&#xA;&lt;li&gt;Lessons learned from building and scaling systems&lt;/li&gt;&#xA;&lt;li&gt;Technical deep-dives on interesting problems&lt;/li&gt;&#xA;&lt;li&gt;Tools and workflows that improve productivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;connect&#34;&gt;Connect&lt;/h2&gt;&#xA;&lt;p&gt;Find me on &lt;a href=&#34;https://github.com/chetankm-cs&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/chetan_km&#34;&gt;Twitter&lt;/a&gt;. You can also reach me by &lt;a href=&#34;mailto:pop.chetan@gmail.com&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to Jekyll!</title>

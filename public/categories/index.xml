@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Logging the Quirks</title>
+    <title>Categories on Chetan K M</title>
     <link>https://chetankm-cs.github.io/categories/</link>
-    <description>Recent content in Categories on Logging the Quirks</description>
+    <description>Recent content in Categories on Chetan K M</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 00:02:25 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://chetankm-cs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>https://chetankm-cs.github.io/categories/ai/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0530</pubDate>
+      <guid>https://chetankm-cs.github.io/categories/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://chetankm-cs.github.io/categories/hugo/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0530</pubDate>
+      <guid>https://chetankm-cs.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Jekyll</title>
       <link>https://chetankm-cs.github.io/categories/jekyll/</link>
-      <pubDate>Mon, 05 Jun 2017 00:02:25 +0530</pubDate>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0530</pubDate>
       <guid>https://chetankm-cs.github.io/categories/jekyll/</guid>
       <description></description>
     </item>

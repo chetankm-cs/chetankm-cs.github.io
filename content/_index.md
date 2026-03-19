@@ -1,3 +1,3 @@
 ---
-title: "Logging the Quirks"
+title: "Home"
 ---

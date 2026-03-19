@@ -1,9 +1,9 @@
 baseURL = "https://chetankm-cs.github.io/"
 languageCode = "en-us"
-title = "Logging the Quirks"
+title = "Chetan K M"
 
 [params]
-  description = "Logging the quirks. A place for all the unusual things discovered on random walks."
+  description = "Thoughts on software engineering, technology, and building things."
   author = "Chetan K M"
   email = "pop.chetan@gmail.com"
   twitterUsername = "chetan_km"

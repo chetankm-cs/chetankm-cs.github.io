@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Logging the Quirks</title>
+    <title>Posts on Chetan K M</title>
     <link>https://chetankm-cs.github.io/posts/</link>
-    <description>Recent content in Posts on Logging the Quirks</description>
+    <description>Recent content in Posts on Chetan K M</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2017 00:02:25 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0530</lastBuildDate>
     <atom:link href="https://chetankm-cs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating from Jekyll to Hugo with AI Assistance</title>
+      <link>https://chetankm-cs.github.io/posts/2026/03/18/migrating-from-jekyll-to-hugo-with-ai-assistance/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0530</pubDate>
+      <guid>https://chetankm-cs.github.io/posts/2026/03/18/migrating-from-jekyll-to-hugo-with-ai-assistance/</guid>
+      <description>&lt;p&gt;A while back, I started this blog using Jekyll. It worked well, but over time, managing Ruby dependencies and the occasional build quirks became a bit of a hassle. When I wanted to move to Hugo, the prospect of manually converting everything felt daunting.&lt;/p&gt;&#xA;&lt;p&gt;Enter AI. I used &lt;a href=&#34;https://opencode.ai/download&#34;&gt;OpenCode Desktop&lt;/a&gt; to help with the migration. Here&amp;rsquo;s how it went:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Process&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;First, I asked the AI to analyze the existing Jekyll structure and explain how Hugo&amp;rsquo;s organization differs&lt;/li&gt;&#xA;&lt;li&gt;It helped convert the front matter from YAML to TOML format&lt;/li&gt;&#xA;&lt;li&gt;It generated the Hugo configuration file based on the site&amp;rsquo;s needs&lt;/li&gt;&#xA;&lt;li&gt;It created the necessary layout templates by understanding the existing HTML structure&lt;/li&gt;&#xA;&lt;li&gt;It set up a GitHub Actions workflow to automatically build and deploy the site on every push&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;What Worked Well&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome to Jekyll!</title>
       <link>https://chetankm-cs.github.io/posts/2017-06-05-welcome-to-jekyll/</link>
